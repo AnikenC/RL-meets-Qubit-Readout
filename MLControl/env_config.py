@@ -22,15 +22,15 @@ _kyoto_sim_config = {
     "tau_0": 0.783,
     "res_amp_scaling": 1 / 0.51,
     "nR": 0.1,
-    "snr_scale_factor": 0.5513744339600395,
-    "gamma_I": 1 / 95.43154150750762,
+    "snr_scale_factor": 0.544,
+    "gamma_I": 1 / 103.8,
     "photon_gamma": 0.0,
     "sim_t1": 0.7,
-    "init_fid": 0.9905278732070423,
+    "init_fid": 0.9981,
     "photon_weight": 8.0,
     "standard_fid": 0.99,
     "shot_noise_std": 0.0,
-    "max_grad": 38,
+    "max_grad": 150,
 }
 
 # Brisbane Q2 Sim Config
