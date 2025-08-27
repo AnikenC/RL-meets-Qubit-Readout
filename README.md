@@ -15,3 +15,9 @@ The MLControl/example_kyoto.ipynb notebook can be used to complete a training ru
 Further notebooks will be added, including reproducing Figures 2 and 3 for the Brisbane and Kyoto Devices respectively.
 
 Additionally, example code will be provided for comparing the RL-discovered waveforms with the CLEAR Pulse from the 2016 [Rapid Driven Reset of a Qubit Readout Resonator](https://doi.org/10.1103/PhysRevApplied.5.011001) paper.
+
+### Citation
+
+If this repository is useful in your academic work, please cite: \
+**Enhanced qubit readout via reinforcement learning (2025):**
+https://doi.org/10.1103/PhysRevApplied.23.054057
